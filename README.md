@@ -90,7 +90,7 @@ verified_plantooning/
 
 ```bash
 cd verified_plantooning
-pip install numpy matplotlib
+python -m pip install -r requirements.txt
 ```
 
 ---
