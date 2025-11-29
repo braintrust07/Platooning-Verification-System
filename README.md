@@ -1,8 +1,8 @@
-# 🚗 **Formal Platooning Verification System**
+# **Formal Platooning Verification System**
 
 **Pure Symbolic AI Approach for Autonomous Vehicle Coordination with Formal Safety Guarantees**
 
-## 📋 Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Features](#features)
@@ -19,29 +19,29 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 The **Formal Platooning Verification System** is a comprehensive autonomous vehicle coordination platform that uses **pure symbolic AI** to provide mathematically proven safety guarantees. Unlike machine learning approaches, this system offers complete transparency, deterministic behavior, and formal verification for collision-free vehicle platooning.
 
 ### Key Innovations
 
-* ✅ **Formal Safety Proofs** - Mathematically verified collision avoidance
-* ✅ **Real-time Performance** - 10Hz operation with complete safety checking
-* ✅ **Transparent Decisions** - Fully explainable vehicle behaviors
-* ✅ **Multiple Scenarios** - Comprehensive emergency and priority handling
+* **Formal Safety Proofs** - Mathematically verified collision avoidance
+* **Real-time Performance** - 10Hz operation with complete safety checking
+* **Transparent Decisions** - Fully explainable vehicle behaviors
+* **Multiple Scenarios** - Comprehensive emergency and priority handling
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Capabilities
 
-* 🚗 **Multi-Vehicle Platooning** (2–8 vehicles)
-* 🚨 **Emergency Braking** with chain reaction prevention
-* 🚑 **Priority Vehicle** cooperative yielding
-* 📊 **Real-time Visualization** with interactive GUI
-* 🔒 **Formal Verification** of all safety properties
-* 📈 **Performance Analytics** and safety metrics
+* **Multi-Vehicle Platooning** (2–8 vehicles)
+* **Emergency Braking** with chain reaction prevention
+* **Priority Vehicle** cooperative yielding
+* **Real-time Visualization** with interactive GUI
+* **Formal Verification** of all safety properties
+* **Performance Analytics** and safety metrics
 
 ### Safety Guarantees
 
@@ -52,7 +52,7 @@ The **Formal Platooning Verification System** is a comprehensive autonomous vehi
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ### Prerequisites
 
@@ -85,7 +85,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: GUI Application (Recommended)
 
@@ -101,7 +101,7 @@ python run_simulation.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ### Core Files
 
@@ -121,7 +121,7 @@ python run_simulation.py
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ### GUI Controls
 
@@ -133,9 +133,9 @@ python run_simulation.py
 
 #### Scenario Selection
 
-* 🚗 **Basic Platooning**
-* 🚨 **Emergency Braking**
-* 🚑 **Priority Vehicle**
+* **Basic Platooning**
+* **Emergency Braking**
+* **Priority Vehicle**
 
 #### Vehicle Configuration
 
@@ -145,30 +145,30 @@ python run_simulation.py
 
 #### Control Buttons
 
-* ▶ **Start**
-* ⏸ **Pause**
-* ⏹ **Stop**
-* 🔁 **Step**
-* 🚨 **Trigger Emergency NOW**
-* 🚑 **Activate Priority NOW**
+* **Start**
+* **Pause**
+* **Stop**
+* **Step**
+* **Trigger Emergency NOW**
+* **Activate Priority NOW**
 
 ---
 
-## 🎯 Scenarios
+## Scenarios
 
-### 1. 🚗 Basic Platooning
+### 1. Basic Platooning
 
 * Adaptive cruise
 * Smooth acceleration
 * Collision avoidance
 
-### 2. 🚨 Emergency Braking
+### 2. Emergency Braking
 
 * Chain reaction prevention
 * Emergency lane change
 * Safety-bound deceleration
 
-### 3. 🚑 Priority Vehicle
+### 3. Priority Vehicle
 
 * Cooperative yielding
 * Dynamic lane changes
@@ -176,7 +176,7 @@ python run_simulation.py
 
 ---
 
-## 🔒 Safety Features
+## Safety Features
 
 ### Formal Verification
 
@@ -204,7 +204,7 @@ python run_simulation.py
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Vehicle Dynamics Model
 
@@ -232,7 +232,7 @@ else: return normal_following()
 
 ---
 
-## 📊 Results
+## Results
 
 ### Performance Metrics
 
@@ -251,7 +251,7 @@ else: return normal_following()
 
 ---
 
-## 🏗 Development
+## Development
 
 ### Adding New Features
 
@@ -273,7 +273,7 @@ python gui_app.py
 
 ---
 
-## 📈 Output Examples
+## Output Examples
 
 * Real-time positions
 * Speed profiles
@@ -283,7 +283,7 @@ python gui_app.py
 
 ---
 
-## 🎓 Educational Value
+## Educational Value
 
 Demonstrates:
 
@@ -301,7 +301,7 @@ Demonstrates:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Errors & Fixes
 
@@ -311,25 +311,25 @@ Demonstrates:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Fork → Branch → PR → Review
 
 ---
 
-## 📄 License
+## License
 
 For academic and research use.
 
 ---
 
-## 📞 Support
+## Support
 
 Refer documentation or contact the team.
 
 ---
 
-## 🎯 Getting Started Checklist
+## Getting Started Checklist
 
 * [ ] Install Python
 * [ ] Install dependencies
