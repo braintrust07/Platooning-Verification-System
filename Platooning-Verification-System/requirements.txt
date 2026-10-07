@@ -1,0 +1,6 @@
+numpy==1.21.6
+matplotlib==3.5.3
+pytest==7.4.0
+pytest-cov==4.1.0
+tkinter
+ttkthemes==3.2.2
